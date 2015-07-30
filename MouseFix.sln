@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseFix", "MouseFix\MouseFix.vcxproj", "{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseFixDll", "MouseFixDll\MouseFixDll.vcxproj", "{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Template|Win32 = Template|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}.Debug|Win32.Build.0 = Debug|Win32
+		{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}.Release|Win32.ActiveCfg = Release|Win32
+		{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}.Release|Win32.Build.0 = Release|Win32
+		{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}.Template|Win32.ActiveCfg = Release|Win32
+		{42C87C93-B6A7-4B56-A8E7-074A423E7DF4}.Template|Win32.Build.0 = Release|Win32
+		{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}.Debug|Win32.Build.0 = Debug|Win32
+		{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}.Release|Win32.ActiveCfg = Release|Win32
+		{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}.Release|Win32.Build.0 = Release|Win32
+		{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}.Template|Win32.ActiveCfg = Template|Win32
+		{BFA06F8A-4883-4491-80AF-CAAEA51AFA3D}.Template|Win32.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
